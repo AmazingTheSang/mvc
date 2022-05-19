@@ -1,0 +1,19 @@
+.danhsachtruyen{
+          width: auto;
+          margin: auto;
+          margin-top: 50px;
+       
+       flex: auto;
+}
+.danhsachtruyen table{
+          border: 1px solid #DDDDDD;
+         justify-self: center;
+         
+}
+.danhsachtruyen h3{
+          background: #009688;
+          color: #FFF;
+          text-align: center;
+          padding: 5px;
+}
+
